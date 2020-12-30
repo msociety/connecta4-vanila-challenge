@@ -1,4 +1,4 @@
-# parcel-starter
+# connecta4-challenge
 
 It contains the necessary depencencies to start an vanilla js project:
 * parcel
